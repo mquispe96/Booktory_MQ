@@ -166,6 +166,10 @@ body, html {
   font-size: 23px;
   font-weight: 700;
 }
+.info__date {
+  font-size: 15px;
+  color: green;
+}
 
 .btns {
   grid-column: 4/span 1;
