@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Booktory: A Basic Web Application Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Booktory](https://mquispe96.github.io/booktory_mq/) is a simple web application designed for managing a book inventory. Through this application, users can display books, add new books to the inventory, and remove books. This project focuses on leveraging fundamental web development skills, including extensive use of HTML, CSS, and JavaScript for DOM manipulation.
 
-## Available Scripts
+### Key Features -
+- Search Book by Author or Title
+- Different ways to sort books by
+- Click on 'i' icon show a book info window
+- Click on 'pencil' icon let's you edit book info
+- Click on  'trash' icon deletes book from list
+- Click on input elements show formatting messages
+- Click on submit buttons also show messages, 3 exactly (Invalid, Success, Updated)
+- Usage of Local Storage to mimic a database
+- Media queries to mimic different screen sizes
+<br>
+<br>
 
-In the project directory, you can run:
+![alt text](image.png)
 
-### `npm start`
+This repository contains the core framework of **Booktory**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀&nbsp; Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is aimed at solidifying your understanding of fundamental web development concepts by applying them in a project-based scenario. To get started:
 
-### `npm test`
+1. **Clone this repository** to your local machine to begin working on your version of Booktory.
+2. **Set up your environment** by ensuring you have a modern web browser and a code editor installed.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ❤️&nbsp; Contributing to the Project
 
-### `npm run build`
+Booktory is a basic project designed for educational purposes. Contributions are welcome, especially from students and educators who wish to improve the project or suggest new features. Whether you're fixing bugs, enhancing the application, or improving documentation, your input is valuable!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📫&nbsp; Support and Questions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Encountered a problem or have a question? While this project might not have a dedicated support channel, consider reaching out to your peers, instructors, or use online forums such as StackOverflow. Sharing and solving issues collectively is a great way to learn and grow.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🤝&nbsp; Reporting Issues and Suggesting Features
 
-### `npm run eject`
+Found a bug or have an idea for a new feature? Feel free to open an issue in this repository with a clear title and description. Contributions are always welcome, and your feedback helps improve Booktory for everyone.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ✅&nbsp; Requirements
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To work on this project, you'll need:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- A modern web browser capable of running JavaScript.
+- A text editor or IDE for coding (e.g., VS Code, Sublime Text, Atom).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Knowledge in HTML, CSS, and JavaScript is essential as you'll be working extensively with these technologies.
