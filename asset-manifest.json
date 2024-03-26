@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/booktory_mq/static/css/main.d1e08b0f.css",
-    "main.js": "/booktory_mq/static/js/main.08e83982.js",
+    "main.css": "/booktory_mq/static/css/main.9686ddc0.css",
+    "main.js": "/booktory_mq/static/js/main.e47e5d06.js",
     "index.html": "/booktory_mq/index.html",
-    "main.d1e08b0f.css.map": "/booktory_mq/static/css/main.d1e08b0f.css.map",
-    "main.08e83982.js.map": "/booktory_mq/static/js/main.08e83982.js.map"
+    "main.9686ddc0.css.map": "/booktory_mq/static/css/main.9686ddc0.css.map",
+    "main.e47e5d06.js.map": "/booktory_mq/static/js/main.e47e5d06.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1e08b0f.css",
-    "static/js/main.08e83982.js"
+    "static/css/main.9686ddc0.css",
+    "static/js/main.e47e5d06.js"
   ]
 }
